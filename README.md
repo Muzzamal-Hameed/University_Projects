@@ -8,7 +8,7 @@ All University Projects.
 * OPP Project - Build a contact management system using C++ OPPs concepts (a CLI based contacts manager for UNIX and windows users)
 * 
 ## 3rd Semester:
-* DSA Project
+* DSA Project - Build a Kids Learning app using android studio (An Mobile app which help the children to learn ABC, 123 and name of colors, animals and fruits. there is also a quiz game for testing there knowlegde).
 ## 4th Semester:
 *  Project
 ## 5th Semester:
@@ -18,4 +18,4 @@ All University Projects.
 ## 7th Semester:
 * Ardino Project
 ## 8th Semester:
-* Ardino Project
+* DeepFake Detection using Mobile App - Build a mobile application using Flutter (app helps the user to detect the input image is real or fake, ai generated images are fake images which are classified using Deep learning model.)
